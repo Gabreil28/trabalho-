@@ -1,0 +1,65 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos do cabeçalho */
+  header {
+    background-color: #382c47;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  /* Estilos do corpo */
+  main {
+    margin: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #ffffff;
+  }
+  
+  /* Estilos do rodapé */
+  footer {
+    background-color: #382c47;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+    body {
+        background-color: #070707;
+    }
+
+    h2 {
+        background-color: #382c47;
+        
+    }
+    .container {
+  width: 100%;
+}
+.texto{
+  color: #fff;
+}
+
+
+
